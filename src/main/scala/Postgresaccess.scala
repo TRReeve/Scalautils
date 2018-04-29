@@ -2,6 +2,7 @@ import java.sql.{Connection, DriverManager, ResultSet, ResultSetMetaData, Statem
 
 import scala.collection.mutable.ListBuffer
 
+/* a template for connecting to and querying a postgres database in scala */
 
 object Postgresaccess {
 
